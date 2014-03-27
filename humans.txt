@@ -1,0 +1,19 @@
+/* TEAM */
+	Frontend:	jose luis luna rubio
+	Contacto:	lunarubiojoseluis@gmail.com
+	Twitter:	@chiwiscor
+	From: 		Queretaro, qro
+
+	Backend:	jose luis luna rubio
+	Contacto:	lunarubiojoseluis@gmail.com
+	Twitter:	@chiwiscor
+	From:		Queretaro, qro
+
+/* THANKS */
+
+
+/* SITE */
+	Ultima Actualizacion : //
+	Lenguaje: Español/Castellano
+	Doctype:HTML5
+	IDE: Sublime Text, FileZilla, Photoshop, stylus
